@@ -1,0 +1,13 @@
+{
+  "name": "example-flutter-desktop-app",
+  "private": true,
+  "type": "module",
+  "description": "How to Test a Flutter Desktop App Without Appium",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "testdriverai": "latest",
+    "vitest": "^4.0.18"
+  }
+}
